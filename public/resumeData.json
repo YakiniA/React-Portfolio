@@ -31,18 +31,15 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
         "school": "University of Utah",
         "degree": "Certificate in Full Stack Web Developer Bootcamp",
-        "graduated": "November 2020",
         "description": "Graduated with Distinction"
       },
       {
         "school": "Crescent Engineering College",
         "degree": "Bachelors in Engineering",
-        "graduated": "May 2010",
         "description": "Graduated with Distinction"
       }
     ],
@@ -65,10 +62,11 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Shifty Planner",
+        "category": "Shift management and time keeping system with a focus on the needs of first responders. Technologies Used : MongoDB, Node, Express, React",
+        "image": "shiftyplanner.png",
+        "deployed": "https://shifty-planner.herokuapp.com/",
+        "github": "https://github.com/Eelektrick/Shifty-Planner"
       },
       {
         "title": "MERN Stack TikTok Clone",

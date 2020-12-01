@@ -506,7 +506,7 @@ span {
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin-bottom: 36px; width:340px; height:165px }
 .portfolio-item .item-wrap {
    background: #fff;
 
@@ -593,6 +593,9 @@ span {
 	filter:alpha(opacity=100);
 }
 
+.link-icon{
+   margin-right: "2%";
+}
 /* popup modal */
 .popup-modal {
 	max-width: 550px;
