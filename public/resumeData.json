@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Yakini Arumuga Kani",
+    "occupation": "Full Stack Web Developer",
+    "image": "myImage.jpg",
+    "bio": "Hi !!! My name is Yakini. I am a Full Stack Web Development Bootcamp graduate at the University of Utah. Hands-on experience in various technologies helped me build responsive websites that focus mainly on rich user experience.My interest is developing projects on the MERN stack as it is more smooth, comfortable, and exciting.I graduated with a Bachelor's degree in Engineering. I had worked as Programmer Analyst and as a Test Engineer.I look forward to new web development opportunities and find a workplace where I can apply my skills and widen my knowledge.",
+    "contactmessage": "Get in touch with me to receive further details..",
+    "email": "yakinilatha09@gmail.com",
+    "phone": "508-494-3722",
+        "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yakini.arumugakani/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "mail",
+        "url": "mailto:yakinilatha09@gmail.com",
+        "className": "fa fa-envelope"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yakini-arumuga-kani-84265464/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/YakiniA",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Utah",
+        "degree": "Certificate in Full Stack Web Developer Bootcamp",
+        "graduated": "November 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Crescent Engineering College",
+        "degree": "Bachelors in Engineering",
+        "graduated": "May 2010",
+        "description": "Graduated with Distinction"
+      }
+    ],
+
+    "work": [
+      {
+        "company": "Frugal Testing",
+        "title": "Performance Test Engineer",
+        "years": "Jan 2019 - May 2020",
+        "description": "Executed Manual and Performance Testing for various applications"
+      },
+      {
+        "company": "Cognizant Technology Solutions",
+        "title": "Programmer Analyst",
+        "years": "Jan 2011 - April 2013",
+        "description": "Developed web applications in Java."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Yakini is a proactive and tireless contributor who naturally rises to the occasion when presented with something she is passionate about. She's always the first one to take initiative, be it solving complex problems, being there for someone in their hard time, or turning a heated discussion into a civilized conversation. She comes with a great attitude, a can-do spirit, and delivers products with passion, and is one of the highly-rated developers on my list. ",
+        "user": "Bharati Frugal"
+      }
+    ]
+  }
+}
