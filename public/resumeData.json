@@ -106,28 +106,28 @@
       },
       {
         "title": "Eat-Da Burger",
-        "category": "Eat-Da Burger is an application which helps to add the burgers, after being added is displayed with `Devour it!` button and can get the burger `Devoured` by pressing the `Devour it!` button. Technologies Used : Node, Express, Handlebars, MySQL, ORM",
+        "category": "Eat-Da Burger is an application which helps to add the burgers, and can get the burger `Devoured` by pressing the `Devour it!`. Technologies Used : Node, Express, Handlebars, MySQL, ORM",
         "image": "Snapshot.png",
         "deployed": "https://evening-depths-68682.herokuapp.com/",
         "github": "https://github.com/YakiniA/13-NodeExpress-Handlebars"
       },
       {
         "title": "Note taker",
-        "category": "The purpose of this application is to develop a note taker that can be used to write, save, and delete notes. This application uses node with express backend to save and retrieve note data from the JSON file. Technologies Used : HTML, Bootstrap CSS, Node, Express.",
+        "category": "The purpose of this application is to develop a note taker that can be used to write, save, and delete notes. Technologies Used : HTML, Bootstrap CSS, Node, Express.",
         "image": "Screenshot.jpg",
         "deployed": "https://nodejs-express-notetaker-11.herokuapp.com/",
         "github": "https://github.com/YakiniA/11-Express-NoteTaker"
       },
       {
         "title": "Good ReadMe Generator",
-        "category": "This application focuses on dynamically generate a high quality README file using command line application. This allows the project creator to spend less time creating a good README. It accepts the user's input using the Inquirer package and also axios call is used for github user validation. Technologies Used : Node, Inquirer, Axios.",
+        "category": "This application focuses on dynamically generate a high quality README file using command line application. Technologies Used : Node, Inquirer, Axios.",
         "image" : "ReadMeGenerator.jpg",
         "deployed": "https://github.com/YakiniA/09-Node.js-ES6-GoodREADMEGenerator",
         "github": "https://github.com/YakiniA/09-Node.js-ES6-GoodREADMEGenerator"
       },
       {
         "title": "Team Generator",
-        "category": " The purpose of this project is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays the collected details. This is completely a Test-driven development(TDD) using Jest. Technologies Used : Node, Inquirer, Jest.",
+        "category": " The purpose of this project is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays the collected details. Technologies Used : Node, Inquirer, Jest.",
         "image" : "TeamGenerator.gif",
         "deployed": "https://github.com/YakiniA/10-OOP-TeamGenerator",
         "github":"https://github.com/YakiniA/10-OOP-TeamGenerator"

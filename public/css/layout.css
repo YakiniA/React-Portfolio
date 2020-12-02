@@ -543,6 +543,11 @@ span {
 
    background: url(../images/overlay-bg.png) repeat;
 }
+
+.overlay{
+   margin-bottom: "2%";
+}
+
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
@@ -595,8 +600,9 @@ span {
 }
 
 .link-icon{
-   margin-right: "2%";
-}
+/* margin-right: "2%"; */
+   margin-bottom : 100px;
+} 
 
 /* popup modal */
 .popup-modal {
@@ -1057,7 +1063,7 @@ footer .social-links li {
     display: inline-block;
     margin: 0;
     padding: 0;
-    margin-left: 42px;
+    margin-left: 35px;
     color: #F06000;
 }
 
