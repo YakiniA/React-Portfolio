@@ -596,6 +596,15 @@ span {
 .link-icon{
    margin-right: "2%";
 }
+i{
+   display:block;
+	position:relative;
+	height:2em;
+   width:2em;
+   margin-right : 2%;
+	/* padding-left:2em; */
+}
+
 /* popup modal */
 .popup-modal {
 	max-width: 550px;

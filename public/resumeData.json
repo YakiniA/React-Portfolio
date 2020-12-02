@@ -69,10 +69,11 @@
         "github": "https://github.com/Eelektrick/Shifty-Planner"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "The Fight Club",
+        "category": "Real time gaming app where two users can fight with each other, and at the end of the game displays their scores. Technologies Used : Node, Express, SocketIO, MySQL, Handlebars",
+        "image": "welcomePage.png",
+        "deployed": "https://the-fight-club.herokuapp.com/",
+        "github": "https://github.com/AtimaB/The-Fight-Club"
       },
       {
         "title": "Facebook Clone with React",
