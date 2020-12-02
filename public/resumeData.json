@@ -76,22 +76,68 @@
         "github": "https://github.com/AtimaB/The-Fight-Club"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+
+        "title": "Space Exploration",
+        "category": "Mobile-focused web app where users can explore, and know about the space related stuffs from NASA API. Technologies Used : HTML, Materialize CSS, Javascript, JQuery, ThirdPartyAPIs",
+        "image": "spaceexplorationportfolio.jpg",
+        "deployed": "https://jordanrbunnell.github.io/spaceexploration/",
+        "github": "https://github.com/jordanrbunnell/spaceexploration"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Coding Quiz",
+        "category": "Web app where users have to answer the Javascript questionnaire within the given time. Technologies Used : HTML, CSS, Javascript",
+        "image": "codingQuizPortfolio.jpg",
+        "deployed": "https://yakinia.github.io/04-WebAPIs-CodeQuiz/",
+        "github": "https://github.com/YakiniA/04-WebAPIs-CodeQuiz"
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Weather Dashboard",
+        "category": "Mobile-focused web app where users can see the weather details of a city, using third party API. Technologies Used : HTML, Bootstrap CSS, Javascript, JQuery, Third Party API.",
+        "image": "WeatherDashboardportfolio.jpg",
+        "deployed": "https://yakinia.github.io/06-ServerSideAPIs-WeatherDashboard/",
+        "github": "https://github.com/YakiniA/06-ServerSideAPIs-WeatherDashboard"
+      },
+      {
+        "title": "Workday Scheduler",
+        "category": "Web Apllication that helps the user to save events for each hour of the day. Technologies Used : HTML, CSS, Javascript, JQuery",
+        "image": "WorkdaySchedulerPortfolio.jpg",
+        "deployed": "https://yakinia.github.io/05-ThirdPartyAPIs-WorkDayScheduler/",
+        "github": "https://github.com/YakiniA/05-ThirdPartyAPIs-WorkDayScheduler"
+      },
+      {
+        "title": "Eat-Da Burger",
+        "category": "Eat-Da Burger is an application which helps to add the burgers, after being added is displayed with `Devour it!` button and can get the burger `Devoured` by pressing the `Devour it!` button. Technologies Used : Node, Express, Handlebars, MySQL, ORM",
+        "image": "Snapshot.png",
+        "deployed": "https://evening-depths-68682.herokuapp.com/",
+        "github": "https://github.com/YakiniA/13-NodeExpress-Handlebars"
+      },
+      {
+        "title": "Note taker",
+        "category": "The purpose of this application is to develop a note taker that can be used to write, save, and delete notes. This application uses node with express backend to save and retrieve note data from the JSON file. Technologies Used : HTML, Bootstrap CSS, Node, Express.",
+        "image": "Screenshot.jpg",
+        "deployed": "https://nodejs-express-notetaker-11.herokuapp.com/",
+        "github": "https://github.com/YakiniA/11-Express-NoteTaker"
+      },
+      {
+        "title": "Good ReadMe Generator",
+        "category": "This application focuses on dynamically generate a high quality README file using command line application. This allows the project creator to spend less time creating a good README. It accepts the user's input using the Inquirer package and also axios call is used for github user validation. Technologies Used : Node, Inquirer, Axios.",
+        "image" : "ReadMeGenerator.jpg",
+        "deployed": "https://github.com/YakiniA/09-Node.js-ES6-GoodREADMEGenerator",
+        "github": "https://github.com/YakiniA/09-Node.js-ES6-GoodREADMEGenerator"
+      },
+      {
+        "title": "Team Generator",
+        "category": " The purpose of this project is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays the collected details. This is completely a Test-driven development(TDD) using Jest. Technologies Used : Node, Inquirer, Jest.",
+        "image" : "TeamGenerator.gif",
+        "deployed": "https://github.com/YakiniA/10-OOP-TeamGenerator",
+        "github":"https://github.com/YakiniA/10-OOP-TeamGenerator"
+      },
+      {
+        "title": "Employee Tracker",
+        "category": " This purpose of this assignment is to build a CLI that provides solution for managing a company's employees using node, inquirer, and MySQL. Technologies Used : Node, Inquirer, MySQL.",
+        "image": "employee-tracker.gif",
+        "deployed": "https://github.com/YakiniA/12-MySQL-EmployeeTracker",
+        "github": "https://github.com/YakiniA/12-MySQL-EmployeeTracker"
       }
     ]
   },
