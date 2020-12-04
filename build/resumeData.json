@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Yakini Arumuga Kani",
+    "occupation": "Full Stack Web Developer",
+    "image": "myImage.jpg",
+    "bio": "Hi !!! My name is Yakini. I am a Full Stack Web Development Bootcamp graduate at the University of Utah. Hands-on experience in various technologies helped me build responsive websites that focus mainly on rich user experience.My interest is developing projects on the MERN stack as it is more smooth, comfortable, and exciting.I graduated with a Bachelor's degree in Engineering. I had worked as Programmer Analyst and as a Test Engineer.I look forward to new web development opportunities and find a workplace where I can apply my skills and widen my knowledge.",
+    "contactmessage": "Get in touch with me to receive further details..",
+    "email": "yakinilatha09@gmail.com",
+    "phone": "508-494-3722",
+        "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yakini.arumugakani/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "mail",
+        "url": "mailto:yakinilatha09@gmail.com",
+        "className": "fa fa-envelope"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/yakini-arumuga-kani-84265464/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/YakiniA",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Utah",
+        "degree": "Certificate in Full Stack Web Developer Bootcamp",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Crescent Engineering College",
+        "degree": "Bachelors in Engineering",
+        "description": "Graduated with Distinction"
+      }
+    ],
+
+    "work": [
+      {
+        "company": "Frugal Testing",
+        "title": "Performance Test Engineer",
+        "years": "Jan 2019 - May 2020",
+        "description": "Executed Manual and Performance Testing for various applications"
+      },
+      {
+        "company": "Cognizant Technology Solutions",
+        "title": "Programmer Analyst",
+        "years": "Jan 2011 - April 2013",
+        "description": "Developed web applications in Java."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Shifty Planner",
+        "category": "Shift management and time keeping system with a focus on the needs of first responders. Technologies Used : MongoDB, Node, Express, React",
+        "image": "shiftyplanner.png",
+        "deployed": "https://shifty-planner.herokuapp.com/",
+        "github": "https://github.com/Eelektrick/Shifty-Planner"
+      },
+      {
+        "title": "The Fight Club",
+        "category": "Real time gaming app where two users can fight with each other, and at the end of the game displays their scores. Technologies Used : Node, Express, SocketIO, MySQL, Handlebars",
+        "image": "welcomePage.png",
+        "deployed": "https://the-fight-club.herokuapp.com/",
+        "github": "https://github.com/AtimaB/The-Fight-Club"
+      },
+      {
+
+        "title": "Space Exploration",
+        "category": "Mobile-focused web app where users can explore, and know about the space related stuffs from NASA API. Technologies Used : HTML, Materialize CSS, Javascript, JQuery, ThirdPartyAPIs",
+        "image": "spaceexplorationportfolio.jpg",
+        "deployed": "https://jordanrbunnell.github.io/spaceexploration/",
+        "github": "https://github.com/jordanrbunnell/spaceexploration"
+      },
+      {
+        "title": "Coding Quiz",
+        "category": "Web app where users have to answer the Javascript questionnaire within the given time. Technologies Used : HTML, CSS, Javascript",
+        "image": "codingQuizPortfolio.jpg",
+        "deployed": "https://yakinia.github.io/04-WebAPIs-CodeQuiz/",
+        "github": "https://github.com/YakiniA/04-WebAPIs-CodeQuiz"
+      },
+      {
+        "title": "Weather Dashboard",
+        "category": "Mobile-focused web app where users can see the weather details of a city, using third party API. Technologies Used : HTML, Bootstrap CSS, Javascript, JQuery, Third Party API.",
+        "image": "WeatherDashboardportfolio.jpg",
+        "deployed": "https://yakinia.github.io/06-ServerSideAPIs-WeatherDashboard/",
+        "github": "https://github.com/YakiniA/06-ServerSideAPIs-WeatherDashboard"
+      },
+      {
+        "title": "Workday Scheduler",
+        "category": "Web Apllication that helps the user to save events for each hour of the day. Technologies Used : HTML, CSS, Javascript, JQuery",
+        "image": "WorkdaySchedulerPortfolio.jpg",
+        "deployed": "https://yakinia.github.io/05-ThirdPartyAPIs-WorkDayScheduler/",
+        "github": "https://github.com/YakiniA/05-ThirdPartyAPIs-WorkDayScheduler"
+      },
+      {
+        "title": "Eat-Da Burger",
+        "category": "Eat-Da Burger is an application which helps to add the burgers, and can get the burger `Devoured` by pressing the `Devour it!`. Technologies Used : Node, Express, Handlebars, MySQL, ORM",
+        "image": "Snapshot.png",
+        "deployed": "https://evening-depths-68682.herokuapp.com/",
+        "github": "https://github.com/YakiniA/13-NodeExpress-Handlebars"
+      },
+      {
+        "title": "Note taker",
+        "category": "The purpose of this application is to develop a note taker that can be used to write, save, and delete notes. Technologies Used : HTML, Bootstrap CSS, Node, Express.",
+        "image": "Screenshot.jpg",
+        "deployed": "https://nodejs-express-notetaker-11.herokuapp.com/",
+        "github": "https://github.com/YakiniA/11-Express-NoteTaker"
+      },
+      {
+        "title": "Good ReadMe Generator",
+        "category": "This application focuses on dynamically generate a high quality README file using command line application. Technologies Used : Node, Inquirer, Axios.",
+        "image" : "ReadMeGenerator.jpg",
+        "deployed": "https://github.com/YakiniA/09-Node.js-ES6-GoodREADMEGenerator",
+        "github": "https://github.com/YakiniA/09-Node.js-ES6-GoodREADMEGenerator"
+      },
+      {
+        "title": "Team Generator",
+        "category": " The purpose of this project is to build a Node CLI that takes in information about employees and generates an HTML webpage that displays the collected details. Technologies Used : Node, Inquirer, Jest.",
+        "image" : "TeamGenerator.gif",
+        "deployed": "https://github.com/YakiniA/10-OOP-TeamGenerator",
+        "github":"https://github.com/YakiniA/10-OOP-TeamGenerator"
+      },
+      {
+        "title": "Employee Tracker",
+        "category": " This purpose of this assignment is to build a CLI that provides solution for managing a company's employees using node, inquirer, and MySQL. Technologies Used : Node, Inquirer, MySQL.",
+        "image": "employee-tracker.gif",
+        "deployed": "https://github.com/YakiniA/12-MySQL-EmployeeTracker",
+        "github": "https://github.com/YakiniA/12-MySQL-EmployeeTracker"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Yakini is a proactive and tireless contributor who naturally rises to the occasion when presented with something she is passionate about. She's always the first one to take initiative, be it solving complex problems, being there for someone in their hard time, or turning a heated discussion into a civilized conversation. She comes with a great attitude, a can-do spirit, and delivers products with passion, and is one of the highly-rated developers on my list. ",
+        "user": "Bharati Frugal"
+      }
+    ]
+  }
+}
