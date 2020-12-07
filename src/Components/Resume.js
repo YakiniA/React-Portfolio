@@ -7,7 +7,6 @@ import react from "../img/react.png";
 import node from "../img/nodeJS.png";
 import express from "../img/expressImg.png";
 import mongoDB from "../img/mongoDB.png";
-import MERN from "../img/MERN.png";
 import mySQL from "../img/mySQLImg.png";
 import java from "../img/javaImg.png";
 import manualTesting from "../img/manual-testing.png";
@@ -28,7 +27,7 @@ class Resume extends Component {
   render() {
 
     if(this.props.data){
-      var skillmessage = this.props.data.skillmessage;
+      // var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
         <p className="info">{education.degree} </p>
@@ -110,11 +109,11 @@ class Resume extends Component {
               
             >
               <div class = "icons" align="center">
-               <img src = {HTML} width="90" height="90" style= {{marginRight: "5%"}}/>
-               <img src = {CSS} width="90" height="90"  style= {{marginRight: "5%"}}/>
-               <img src = {JS} width="90" height="60"  style= {{marginTop: "3%", marginRight: "4%"}}/>
-               <img src = {jQuery} width="90" height="90"  style= {{marginRight: "5%"}}/>
-               <img src = {react} width="90" height="70"  style= {{marginRight: "5%"}}/>
+               <img src = {HTML} width="90" height="90" alt="HTML" style= {{marginRight: "5%"}}/>
+               <img src = {CSS} width="90" height="90" alt="CSS" style= {{marginRight: "5%"}}/>
+               <img src = {JS} width="90" height="60" alt="JS" style= {{marginTop: "3%", marginRight: "4%"}}/>
+               <img src = {jQuery} width="90" height="90" alt="jQuery" style= {{marginRight: "5%"}}/>
+               <img src = {react} width="90" height="70" alt="react" style= {{marginRight: "5%"}}/>
 
 
               </div>
@@ -125,11 +124,11 @@ class Resume extends Component {
               style={{ fontFamily: "Kanit, sans-serif",  fontSize : "20px" }}
             >
               <div class = "icons" align= "center">
-               <img src = {node} width="110" height="90" style= {{marginRight: "4%"}}/>
-               <img src = {express} width="120" height="120"  style= {{marginRight: "4%"}}/>
-               <img src = {mongoDB} width="110" height="60"  style= {{marginRight: "4%"}}/>
-               <img src = {mySQL} width="110" height="50"  style= {{marginRight: "4%"}}/>
-               <img src = {java} width="60" height="90"  style= {{marginRight: "4%"}}/>
+               <img src = {node} width="110" height="90" alt="node" style= {{marginRight: "4%"}}/>
+               <img src = {express} width="120" height="120" alt="express" style= {{marginRight: "4%"}}/>
+               <img src = {mongoDB} width="110" height="60" alt="mongoDB"  style= {{marginRight: "4%"}}/>
+               <img src = {mySQL} width="110" height="50" alt="mySQL" style= {{marginRight: "4%"}}/>
+               <img src = {java} width="60" height="90" alt="java" style= {{marginRight: "4%"}}/>
                {/* <img src = {MERN} width="210" height="120"  style= {{marginRight: "4%"}}/> */}
 
               </div>
@@ -140,9 +139,9 @@ class Resume extends Component {
               style={{ fontFamily: "Kanit, sans-serif", fontSize : "20px" }}
             >
                <div class = "icons" align= "center">
-               <img src = {manualTesting} width="180" height="150" style= {{marginRight: "4%"}}/>
-               <img src = {selenium} width="90" height="70"  style= {{marginRight: "4%"}}/>
-               <img src = {jmeter} width="100" height="70"  style= {{marginRight: "4%"}}/>
+               <img src = {manualTesting} width="180" height="150" alt="manual testing" style= {{marginRight: "4%"}}/>
+               <img src = {selenium} width="90" height="70" alt="selenium testing" style= {{marginRight: "4%"}}/>
+               <img src = {jmeter} width="100" height="70" alt="jmeter" style= {{marginRight: "4%"}}/>
               </div>
             </Tab>
           </Tabs>

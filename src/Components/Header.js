@@ -15,14 +15,14 @@ class Header extends Component {
       function changeWord() {
       var cw = wordArray[currentWord];
       var nw = currentWord === words.length-1 ? wordArray[0] : wordArray[currentWord+1];
-      for (var i = 0; i < cw.length; i++) {
-        animateLetterOut(cw, i);
+      for (var j = 0; j < cw.length; j++) {
+        animateLetterOut(cw, j);
       }
 
-      for (var i = 0; i < nw.length; i++) {
-        nw[i].className = 'letter behind';
+      for (var k = 0; k < nw.length; k++) {
+        nw[k].className = 'letter behind';
         nw[0].parentElement.style.opacity = 1;
-        animateLetterIn(nw, i);
+        animateLetterIn(nw, k);
       }
 
       currentWord = (currentWord === wordArray.length-1) ? 0 : currentWord+1;
