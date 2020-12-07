@@ -95,8 +95,8 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">Hi, I'm <hr/>
-             {name} <hr/>
+            <h1 className="responsive-headline">Hi, I'm <br/>
+             {name} <br/>
                 <div className= {{align: "left"}}>
                 <span class="word wisteria">Front-end  Developer</span>
                 <span class="word belize">Back-end  Developer</span>
@@ -106,11 +106,11 @@ class Header extends Component {
                 <span class="word midnight">cheap.</span> */}
            </h1>
             {/* <h3><span>{occupation}</span>.</h3> */}
-            <hr />
-            <hr />
-            <hr />
-            <hr />
-            <hr />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
             <ul className="social">
                {networks}
             </ul>
