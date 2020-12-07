@@ -95,8 +95,8 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">Hi, I'm <br/>
-             {name} <br/>
+            <h1 className="responsive-headline">Hi, I'm <br/><br/>
+             {name} <br/><br/>
                 <div className= {{align: "left"}}>
                 <span class="word wisteria">Front-end  Developer</span>
                 <span class="word belize">Back-end  Developer</span>
